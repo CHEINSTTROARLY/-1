@@ -1,4 +1,6 @@
-805 times:
+So my program says I've done it 805 times:
+
+___
 
 "Are you changing the bear things to -100 and +100? Ok
 http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html"
